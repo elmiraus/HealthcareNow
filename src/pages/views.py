@@ -6,3 +6,5 @@ def index(request):
     return render(request, 'pages/index.html')
 def about(request):
     return render(request, 'pages/about.html')
+def chooseplan(request):
+    return render(request, 'pages/chooseplan.html')
