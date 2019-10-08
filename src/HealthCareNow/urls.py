@@ -19,6 +19,8 @@ from django.contrib import admin
 
 urlpatterns = [
     path('', include('pages.urls')),
+    path('auth/', include('login_register.urls')),
+    path('chooseplan', include('chooseplan.urls')),
     path('chat/', include('chat.urls')),
     path('admin/', admin.site.urls),
 
