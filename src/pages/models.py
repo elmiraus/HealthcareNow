@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-
+'''
 class categories(models.Model):
     UserID = models.IntengerField(max_length=50, blank=True, primary_key=True)
     UserName = models.CharField(max_length=50, blank=True)
@@ -19,3 +19,4 @@ class categories(models.Model):
     HomeHealthCare = models.IntengerField(mmax_length=50, blank=True)
     RehabilationServices = models.IntengerField(max_length=50, blank=True)
     SkilledNursingCare = models.IntengerField(max_length=50, blank=True)
+'''
