@@ -40,9 +40,11 @@ deactivate nondestructive
 VIRTUAL_ENV="/Users/jackie/Documents/SoftwareDevClass/HealthCareNow/venv"
 export VIRTUAL_ENV
 
+
 _OLD_VIRTUAL_PATH="$PATH"
 PATH="$VIRTUAL_ENV/bin:$PATH"
 export PATH
+
 
 # unset PYTHONHOME if set
 # this will fail if PYTHONHOME is set to the empty string (which is bad anyway)
@@ -74,3 +76,4 @@ fi
 if [ -n "${BASH:-}" -o -n "${ZSH_VERSION:-}" ] ; then
     hash -r
 fi
+export DJANGO_SETTINGS_MODULE="HealthCareNow.settings"
