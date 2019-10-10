@@ -87,13 +87,37 @@ Create encryption algorithm (5 days)
 Velocity: 7 days 
 
 
+Ranking User Stories (First Attempt)
+User Stories	                                               Ian	 Elmira	 Jackie	 Monica	 Farhad
+Log into account	                                            7	     5	     4	     1	     6
+Add info to their profile                                     5	     6	     7	     6       2
+Select their health symptoms and needs	                      4	     4	     1	     1	     3
+Gather data from user input	                                  2	     3	     2	     2	     1
+Application will determine best health plans for users	      1	     1       3	     3	     4
+Create public and private key                                	3	     2	     6	     4       5
+Setup video/email communication system	                      6	     7	     5	     5	     7
 
 
+Ranking User Stories (First Attempt)
+User Stories	                                               Ian	 Elmira	 Jackie	 Monica	 Farhad
+Log into account	                                            6	     6	     5	     6	     6
+Add info to their profile                                     5	     5	     6	     5       5
+Select their health symptoms and needs	                      4	     4	     4	     4	     3
+Gather data from user input	                                  2	     2	     2	     2	     4
+Application will determine best health plans for users	      1	     1       1	     1	     2
+Create public and private key                                	3	     3	     3	     7       1
+Setup video/email communication system	                      7	     7	     7	     3	     7
 
 
+Milestone 1.0 
+•	Draft of website  
+•	Interface and working functional algorithm for collecting user information 
+•	Create database for log in and register 
+•	Create chat and help server 
 
-
-
+Total days: 20
+Total Velocity: 28
+Feasible: Yes
 
 
 
